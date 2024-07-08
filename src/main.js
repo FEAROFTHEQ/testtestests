@@ -25,8 +25,6 @@ function addAnimation(){
             console.log(duplItem);
         });
     });
-
-
     // const scrollerInner = scroller.querySelector(".marquee-inner");
     // const scrollerContent = Array.from(scrollerInner.children);
     // scrollerContent.forEach(item => {
